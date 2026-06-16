@@ -3,13 +3,13 @@ About claude-agent-acp-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/claude-agent-acp-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/zed-industries/claude-agent-acp
+Home: https://github.com/agentclientprotocol/claude-agent-acp
 
 Package license: Apache-2.0
 
 Summary: Bridges the Claude Agent SDK to the Agent Client Protocol (ACP)
 
-Development: https://github.com/zed-industries/claude-agent-acp
+Development: https://github.com/agentclientprotocol/claude-agent-acp
 
 claude-agent-acp is a TypeScript CLI tool by Zed Industries that bridges
 the Claude Agent SDK to the Agent Client Protocol (ACP), enabling Claude
@@ -22,7 +22,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/claude-agent-acp-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/claude-agent-acp-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
