@@ -1,5 +1,5 @@
 context:
-  version: "0.63.0"
+  version: "0.64.0"
 
 package:
   name: claude-agent-acp
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@agentclientprotocol/claude-agent-acp/-/claude-agent-acp-${{ version }}.tgz
-  sha256: 524c62960928c3c2d9b97db5ed14c2823575b333b9ce0d4c42973652c30b26a2
+  sha256: a62019ef561a189ad5397b194f52a223157324f0dbfcba944856c95faa771324
 
 build:
   noarch: generic
